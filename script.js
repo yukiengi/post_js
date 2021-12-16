@@ -1,5 +1,5 @@
 // Rails API 側の ベースURL
-const baseURL = https://serene-thicket-93469.herokuapp.com/
+const baseURL = 'https://http://127.0.0.1:5500/index.html'
 // 投稿リストの DOM 要素オブジェクトを取得
 const postList = document.getElementById('post-list')
 
