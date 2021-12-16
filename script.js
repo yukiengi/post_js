@@ -1,5 +1,5 @@
 // Rails API 側の ベースURL
-const baseURL = 'https://http://127.0.0.1:5500/index.html'
+const baseURL = 'https://yukiengi.github.io/post_js/'
 // 投稿リストの DOM 要素オブジェクトを取得
 const postList = document.getElementById('post-list')
 
