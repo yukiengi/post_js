@@ -1,5 +1,5 @@
 // Rails API 側の ベースURL
-const baseURL = 'https://yukiengi.github.io/post_js/'
+const baseURL = 'https://serene-thicket-93469.herokuapp.com'
 // 投稿リストの DOM 要素オブジェクトを取得
 const postList = document.getElementById('post-list')
 
